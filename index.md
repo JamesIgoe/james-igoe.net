@@ -2,7 +2,7 @@
 
 ### My Repos
 
-For now, my main repo page: https://github.com/JamesIgoe
+For now, [my main repo page:](https://github.com/JamesIgoe)
 
 ### Contact
 
